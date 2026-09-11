@@ -1,0 +1,45 @@
+commit aadb1093badbe2c79d2dc88709962849c8aaaa45
+Merge: 325f6b9 2357adf
+Author: Salman Ali <sali41@calstatela.edu>
+Date:   Thu Sep 10 20:08:53 2026 -0700
+
+    Resolve merge conflict
+
+commit 2357adf025ebb6dc13cc6b759f33cb7b5df57e5f
+Author: Salman Ali <sali41@calstatela.edu>
+Date:   Thu Sep 10 20:05:12 2026 -0700
+
+    Add favorite movie
+
+commit 325f6b906ee84dc0245dca9cf2a043ccd173bca1
+Author: Salman Ali <sali41@calstatela.edu>
+Date:   Thu Sep 10 20:03:06 2026 -0700
+
+    Add favorite food
+
+commit a0393a52de41c1710dc7bf93c2ec8a75c040c41d
+Author: Salman Ali <sali41@calstatela.edu>
+Date:   Thu Sep 10 19:56:17 2026 -0700
+
+    Add README
+
+commit 407d733e895eaa37984631252437412b7b82f7b6
+Merge: 1d2bfc0 cb17557
+Author: SalmanNAli <sali41@calstatela.edu>
+Date:   Thu Sep 10 19:48:08 2026 -0700
+
+    Merge pull request #1 from SalmanNAli/info-fill
+    
+    Fill in personal information
+
+commit cb175577c0c2b6147161188bf57d8c019ad16b10
+Author: Salman Ali <sali41@calstatela.edu>
+Date:   Fri Sep 4 13:10:29 2026 -0700
+
+    Fill in personal information
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
